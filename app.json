@@ -1,0 +1,12 @@
+{
+  "name": "log_in",
+  "displayName": "log_in",
+  "expo": {
+    "name": "log_in",
+    "slug": "log_in",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
